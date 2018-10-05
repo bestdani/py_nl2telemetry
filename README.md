@@ -28,11 +28,13 @@ implemented as IDE friendly classes.
 * Simple demonstration applications. 
     * The Minimal example.
     * Live plotting of G-Forces.
-    ![](docs/liveplot.png?raw=True
+    
+        ![](docs/liveplot.png?raw=True
     "matplotlib interface for live g force logging")
     * Logging G-Forces a CSV data.
     * A Station Control Panel.
-    ![](docs/dispatch_control.png?raw=True
+    
+        ![](docs/dispatch_control.png?raw=True
     "telemetry based control panel")
 
 ## Limitations
