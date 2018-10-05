@@ -38,7 +38,7 @@ implemented as IDE friendly classes.
     "telemetry based control panel")
 
 ## Limitations
-* No messages that require the __Attraction License__ message of NoLimits 2
+* No messages that require the __Attraction License__ of NoLimits 2
 are implemented.
 * No efforts have been made to ensure or even test parallel execution
 capability or stability.
