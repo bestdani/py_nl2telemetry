@@ -23,7 +23,7 @@ with NoLimits2() as nl2:
 * Python 3 (developed in 3.7, confirmed to work with at least 3.5.2)
 
 ## Features 
-* All message available in NoLimits 2.5.6.0 __Standard and Professional__ are
+* All messages available in NoLimits 2.5.6.0 __Standard and Professional__ are
 implemented as IDE friendly classes.
 * Simple demonstration applications. 
     * The Minimal example.
@@ -38,7 +38,7 @@ implemented as IDE friendly classes.
     "telemetry based control panel")
 
 ## Limitations
-* No messages that require the __Attraction License message__ of NoLimits 2
+* No messages that require the __Attraction License__ message of NoLimits 2
 are implemented.
 * No efforts have been made to ensure or even test parallel execution
 capability or stability.
