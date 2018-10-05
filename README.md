@@ -31,7 +31,7 @@ implemented as IDE friendly classes.
     
         ![](docs/liveplot.png?raw=True
     "matplotlib interface for live g force logging")
-    * Logging G-Forces a CSV data.
+    * Logging of G-Forces as CSV data.
     * A Station Control Panel.
     
         ![](docs/dispatch_control.png?raw=True
