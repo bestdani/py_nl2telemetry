@@ -27,7 +27,7 @@ with NoLimits2() as nl2:
 implemented as IDE friendly classes.
 * Simple demonstration applications. 
     * The Minimal example.
-    * Live plotting of G-Forces.
+    * Live plotting of G-Forces (uses [matplotlib](https://matplotlib.org/)).
     
         ![](docs/liveplot.png?raw=True
     "matplotlib interface for live g force logging")
