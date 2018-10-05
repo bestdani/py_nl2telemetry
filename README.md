@@ -2,7 +2,7 @@
 A simple implementation of a telemetry client for communication with the telemetry server of [NoLimits 2 - Roller Coaster Simulation](http://www.nolimitscoaster.com/).
 
 ## Usage
-### A minimal example
+### A Minimal Example
 
 Launch NoLimits with the --telemetry option and execute on the same machine:
 
